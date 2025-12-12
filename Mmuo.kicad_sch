@@ -17647,9 +17647,9 @@
 		(at 307.594 163.83 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(dnp yes)
 		(uuid "05010c69-fe21-4ba1-bb95-4ca7cb77d41a")
 		(property "Reference" "R19"
 			(at 310.388 163.068 0)
@@ -21329,9 +21329,9 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "59a62c31-ff21-4246-868b-d873f14a6191")
 		(property "Reference" "#PWR051"
@@ -21371,6 +21371,15 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 320.294 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Untitled Field" ""
 			(at 320.294 194.31 0)
 			(effects
 				(font
@@ -22342,8 +22351,8 @@
 		(at 332.994 167.64 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
+		(in_bom no)
+		(on_board no)
 		(dnp yes)
 		(uuid "6783e8bd-7b68-45ce-87b8-14834c55d6a2")
 		(property "Reference" "R21"
@@ -25084,9 +25093,9 @@
 		(at 299.974 163.83 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(dnp yes)
 		(uuid "8cf6d7cb-d8b6-44c0-add1-55a438541449")
 		(property "Reference" "R18"
 			(at 297.18 162.306 0)
@@ -25177,6 +25186,15 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
+			(at 299.974 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Untitled Field" ""
 			(at 299.974 163.83 0)
 			(effects
 				(font
@@ -26685,9 +26703,9 @@
 		(at 320.294 157.48 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(dnp yes)
 		(uuid "a6968b00-eca8-4244-bb5b-6e2bb24cd315")
 		(property "Reference" "#PWR044"
 			(at 320.294 161.29 0)
@@ -26725,6 +26743,15 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 320.294 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Untitled Field" ""
 			(at 320.294 157.48 0)
 			(effects
 				(font
@@ -29369,9 +29396,9 @@
 		(at 343.154 163.83 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(dnp yes)
 		(uuid "c9b4d0c1-2f4d-45af-b947-3ac72cc7080b")
 		(property "Reference" "C31"
 			(at 339.09 161.544 0)
@@ -29491,6 +29518,15 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
+			(at 343.154 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Untitled Field" ""
 			(at 343.154 163.83 0)
 			(effects
 				(font
@@ -30074,9 +30110,9 @@
 		(at 320.294 177.8 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(dnp yes)
 		(uuid "d9d2dcdc-56b9-4df2-8044-b978abc5d6c7")
 		(property "Reference" "U5"
 			(at 326.644 166.37 0)
